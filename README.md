@@ -9,3 +9,4 @@
 ### 📱 Socials
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayush__marathe_?igsh=MWg3YmI1MjR5NWhs)
 [![X](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ayush_Marathe_?t=qzAZKx7BbLoZ4QOm4139uw&s=09)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-marathe-00a4b5368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
